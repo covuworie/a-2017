@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
+requests = "*"
+"beautifulsoup4" = "*"
+seaborn = "*"
+
+[dev-packages]
+jupyterlab = "*"
+pycodestyle = "*"
+pycodestyle-magic = "*"
+
+[requires]
+python_version = "3.6"
