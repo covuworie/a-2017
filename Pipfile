@@ -12,6 +12,7 @@ scikit-learn = "*"
 requests = "*"
 "beautifulsoup4" = "*"
 seaborn = "*"
+lxml = "*"
 
 [dev-packages]
 jupyterlab = "*"
