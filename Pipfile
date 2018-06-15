@@ -13,6 +13,8 @@ requests = "*"
 "beautifulsoup4" = "*"
 seaborn = "*"
 lxml = "*"
+statsmodels = "*"
+patsy = "*"
 
 [dev-packages]
 jupyterlab = "*"
