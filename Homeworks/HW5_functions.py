@@ -1,3 +1,4 @@
+import numpy as np
 #--------  visualize_prob
 # A function to visualize the probabilities predicted by a Logistic Regression model
 # Input: 
